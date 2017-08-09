@@ -1,5 +1,7 @@
 package com.abstractDemo;
 
-protected abstract class Test {
+abstract class Test {
+	
+	void test(){}
 
 }
